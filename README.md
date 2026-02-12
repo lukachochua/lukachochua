@@ -96,6 +96,3 @@ Early-stage Laravel project groundwork: migrations, seeders, Spatie Permission s
 - GitHub: **@lukachochua**
 - lukachochua@gmail.com
 
----
-
-### Pinned project
